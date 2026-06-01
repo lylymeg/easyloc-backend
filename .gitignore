@@ -1,0 +1,8 @@
+# Fichiers générés par Java/Maven
+target/
+.gradle/
+build/
+.settings/
+.classpath
+.project
+*.class
